@@ -16,7 +16,7 @@ class App extends React.Component {
     return (
       <div>
         <div className='navbar' >
-          <h1 >Route Helper</h1>
+          <h1 >Team Sheet</h1>
         </div>
         <Form />
         <div className='result' ></div>
